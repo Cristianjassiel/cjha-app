@@ -1,7 +1,7 @@
 # Informacion
-- Nombre:
-- No. Control:
-- Grupo:
+- Nombre: Cristian Jassiel Hernandez Arvizu
+- No. Control: 1224100275
+- Grupo: GTI174
 
 ## Especificaciones del proyecto
 
