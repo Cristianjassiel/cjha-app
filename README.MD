@@ -17,6 +17,7 @@ Para que la aplicacion funcione se necesitan las siguientes variables:
 
 ## Participantes 
 -[Cristian Jassiel](https://github.com/Cristianjassiel)
+-[Bryan Roodriguez](https://github.com/bryaaaxn)
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROeplelqoBpusU8w6tPojDVqEMCcGHk66bYtFbC2J5jBY4Ayq3bLTS5zU&s=10">
 
